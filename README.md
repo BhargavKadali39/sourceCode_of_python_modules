@@ -21,12 +21,13 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ## Topics covered
-* [What's an module?](#What's an module?)
+* [What's an module?](#What's-an-module?)
+
 
 #####
 
 
-## What's an module?
-Before going into the topic let's know what's actually an module is ?
+## What's-an-module?
+Before going into the topic let's know what's actually an module is ? 
 Module is a normal python file which can be written by anyone and can also be accessed through other program's which reside in your local storage area.  
 Module's can be compared to a function i.e reusable code, but on a large scale which includes everything that python can offer.
