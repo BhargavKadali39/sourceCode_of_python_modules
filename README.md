@@ -7,33 +7,7 @@ Ever wondered where all the pip installed modules go to, if that was a no then I
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-,uy
-,yu
-,y
-,yu
-uyf,yu
-.,yu
-,yu
-yu,
-,yu
-y,uyu,
-yu,
-.,yu
-,your y,unfortunately ,yu
-,yu
-y,u
-,yu,yu
-,y
-y,,uy
-,yuf
-y,u
-y,uf
-,dt,,
-y,u
-.
-ui,
-,uy
-,yu
+
 ## General info
 This project is simple Lorem ipsum dolor generator.
 	
@@ -46,91 +20,11 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-
-
 <h2>Topics covered</h2>
-#What's an module?
+ [What's an module?](#What's an module?)
 
 #####
-.
 
-
-
-
-
-
-.
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-.
 
 ## What's an module?
 Before going into the topic let's know what's actually an module is ?
