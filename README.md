@@ -5,7 +5,7 @@ Ever wondered where all the pip installed modules go to, if that was a no then I
 
 ## Table of contents
 * [What's an module?](#What-is-a-module)
-* [What's an module?](#What-is-a-module)
+* [pros-and-cons-of-modules](#pros-and-cons-of-modules)
 * [What's an module?](#What-is-a-module)
 * [What's an module?](#What-is-a-module)
 * [What's an module?](#What-is-a-module)
