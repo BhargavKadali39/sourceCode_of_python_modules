@@ -4,12 +4,12 @@ Ever wondered where all the pip installed modules go to, if that was a no then I
 *Note: This only works for the modules that you have installed on your desktop Previously.* 
 
 ## Table of contents
-⦿ [What's an module?](#What-is-a-module)
-⦿ [path-of-modules](#path-of-modules)
-⦿ [pros-and-cons-of-modules](#pros-and-cons-of-modules)
-⦿ [single-function-importing](#single-function-importing)
-⦿ [renaming-module](#renaming-module)
-⦿ [user-defined-module](#user-defined-module)
+⦿ [What's an module](#What-is-a-module)  
+⦿ [path-of-modules](#path-of-modules)  
+⦿ [pros-and-cons-of-modules](#pros-and-cons-of-modules)  
+⦿ [single-function-importing](#single-function-importing)  
+⦿ [renaming-module](#renaming-module)  
+⦿ [user-defined-module](#user-defined-module)  
 ⦿ [builtins](#builtins)
 
 ## What-is-a-module
