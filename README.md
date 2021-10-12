@@ -7,6 +7,7 @@ Ever wondered where all the pip installed modules go to, if that was a no then I
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [What's an module?](#What's-an-module)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
@@ -21,7 +22,6 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ## Topics covered
-* [What's an module?](#What's-an-module)
 
 ## What's-an-module
 Before going into the topic let's know what's actually an module is ? 
