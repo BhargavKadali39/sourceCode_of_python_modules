@@ -7,7 +7,7 @@ Ever wondered where all the pip installed modules go to, if that was a no then I
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [What's an module?](#What's-an-module)
+* [What's an module?](#What-is-an-module)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
@@ -23,7 +23,7 @@ To run this project, install it locally using npm:
 
 ## Topics covered
 
-## What's-an-module
+## What-is-an-module
 Before going into the topic let's know what's actually an module is ? 
 
 Module is a normal python file which can be written by anyone and can also be accessed through other program's which reside in your local storage area.  
