@@ -7,10 +7,10 @@ Ever wondered where all the pip installed modules go to, if that was a no then I
 * [What's an module?](#What-is-a-module)
 * [path-of-modules](#path-of-modules)
 * [pros-and-cons-of-modules](#pros-and-cons-of-modules)
-* [importing-single-function](#importing-single-function)
+* [single-function-importing](#single-function-importing)
 * [renaming-module](#renaming-module)
 * [user-defined-module](#user-defined-module)
-* [__builtins__](__builtins__)
+* [builtins](#builtins)
 
 ## What-is-a-module
 Before going into the topic let's know what's actually an module is ? 
@@ -49,7 +49,7 @@ then use can use below command to import all functions from module
 
 This will be very handy but increases the execution time, so I recommended you to use this only while testing phase.
 
-## importing-single-function
+## single-function-importing
 
 When trying to design something we end up using more than enough amount of modules in our code which is a big no no.
 To avoid doing it we can import single or multiple function of a module using the below command.
@@ -66,6 +66,6 @@ Yes, you heard me right we can create a module of our choice and the requirement
 	⦿ import your module to any other program using the name of it.
 and you're good to go.
 
-## __builtins__ 
+## builtins
 Ever wondered how commands like print and all works, it's because of the __builtins__ module which are pre-imported into your python file  
 which means no import required for them as they are very commonly used.
