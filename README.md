@@ -21,7 +21,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 <h2>Topics covered</h2>
- [What's an module?](#What's an module?)
+* [What's an module?](#What's an module?)
 
 #####
 
