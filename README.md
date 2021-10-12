@@ -20,7 +20,7 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-<h2>Topics covered</h2>
+## Topics covered
 * [What's an module?](#What's an module?)
 
 #####
